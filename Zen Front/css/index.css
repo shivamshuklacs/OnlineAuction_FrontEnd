@@ -1,0 +1,55 @@
+.bg-custom{
+	background-color: #8F317F;
+}
+h1{
+	color: #B40A03;
+	font-style: italic;
+}
+.navbar-custom ul li a{
+	font-size: 19px;
+}
+.container a{
+	font-size: 20px;
+}
+
+/* Slider */
+.carousel-item {
+  height: 65vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.card-body a{
+	color:red;
+}
+h4{
+	text-align: center;
+}
+h2{
+	color:#B40A03;
+	font-style: italic;
+	font-weight: bold;
+}
+.one a{
+	color:white;
+}
+.my-3{
+	text-align: center;
+	font-size: 40px;
+}
+footer{
+	background-color: #8F317F;
+}
+.copy h6{
+	text-align: center;
+	color:white;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 35px;
+}
+.text-custom a{
+	font-size: 18px;
+}
